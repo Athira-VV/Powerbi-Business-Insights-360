@@ -196,8 +196,7 @@ In this project, a Snowflake data modeling approach was used.
 
 ### Data Model Diagram
 
-*<img width="1366" height="727" alt="BI360_data_model" src="https://github.com/user-attachments/assets/f22c5918-7ac2-44af-974b-c465a3a19b33" />
-*
+<img width="1366" height="727" alt="BI360_data_model" src="https://github.com/user-attachments/assets/f22c5918-7ac2-44af-974b-c465a3a19b33" />
 
 ---
 
