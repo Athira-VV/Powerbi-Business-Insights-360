@@ -2,8 +2,6 @@
 
 End-to-end Power BI business analytics project covering Finance, Sales, Marketing, Supply Chain, and Executive insights.
 
-# Business Insights 360 - Power BI Project
-
 ## Project Overview
 
 Business Insights 360 is a guided Power BI project that I completed as part of my Power BI learning journey. The project focuses on transforming business data into meaningful insights to support data-driven decision-making across different departments such as Finance, Sales, Marketing, Supply Chain, and Executive Management.
