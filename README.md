@@ -196,7 +196,7 @@ In this project, a Snowflake data modeling approach was used.
 
 ### Data Model Diagram
 
-<img width="1366" height="727" alt="BI360_data_model" src="https://github.com/user-attachments/assets/f22c5918-7ac2-44af-974b-c465a3a19b33" />
+*<img width="1366" height="727" alt="BI360_data_model" src="https://github.com/user-attachments/assets/f22c5918-7ac2-44af-974b-c465a3a19b33" />*
 
 ---
 
@@ -219,7 +219,7 @@ The Home View acts as the landing page and provides navigation to all report sec
 
 ## Overall Report
 
-<img width="936" height="524" alt="BI360_overall_report" src="https://github.com/user-attachments/assets/b103d6b2-6a06-4942-b5be-9e4a1dc9319a" />
+*<img width="936" height="524" alt="BI360_overall_report" src="https://github.com/user-attachments/assets/b103d6b2-6a06-4942-b5be-9e4a1dc9319a" />*
 
 
 ---
