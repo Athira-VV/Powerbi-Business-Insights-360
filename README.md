@@ -218,7 +218,7 @@ The Home View acts as the landing page and provides navigation to all report sec
 
 ## Overall Report
 
-![Data Model Diagram]([https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Data%20Model.gif](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Overall%20Report.gif)
+![Overall Report](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Overall%20Report.gif)
 
 ---
 
