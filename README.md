@@ -195,8 +195,8 @@ Poor data modeling can negatively impact report performance and usability.
 In this project, a Snowflake data modeling approach was used.
 
 ### Data Model Diagram
+![Data Model Diagram](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Data%20Model.gif)
 
-*<img width="1366" height="727" alt="BI360_data_model" src="https://github.com/user-attachments/assets/f22c5918-7ac2-44af-974b-c465a3a19b33" />*
 
 ---
 
