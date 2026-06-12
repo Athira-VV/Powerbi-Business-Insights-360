@@ -219,14 +219,14 @@ The Home View acts as the landing page and provides navigation to all report sec
 
 ## Overall Report
 
-*<img width="943" height="525" alt="BI360_overall_report" src="https://github.com/user-attachments/assets/c3c8d6f5-8bdf-45a2-816d-2b1eaaf51703" />*
+*(Add Screenshot Here)*
 
 
 ---
 
 ## Finance View
 
-*<img width="943" height="525" alt="BI360_finance_view" src="https://github.com/user-attachments/assets/0123375a-ffb7-4910-8a36-7cf8c6af0d4c" />*
+*(Add Screenshot Here)*
 
 ---
 
