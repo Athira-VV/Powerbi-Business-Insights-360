@@ -197,7 +197,6 @@ In this project, a Snowflake data modeling approach was used.
 ### Data Model Diagram
 ![Data Model Diagram](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Data%20Model.gif)
 
-
 ---
 
 ## Dashboard Designing
@@ -219,8 +218,7 @@ The Home View acts as the landing page and provides navigation to all report sec
 
 ## Overall Report
 
-*(Add Screenshot Here)*
-
+![Data Model Diagram]([https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Data%20Model.gif](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Overall%20Report.gif)
 
 ---
 
