@@ -252,14 +252,6 @@ The Home View acts as the landing page and provides navigation to all report sec
 
 ---
 
-## Report File
-
-You can find the complete Power BI report file here:
-
-[Report](Add_Report_Link_Here)
-
----
-
 ## Project Outcome
 
 This dashboard helps to make data-driven decisions by providing a centralized view of business performance across different functions.The report enables users to monitor KPIs, identify trends, analyze performance, and answer important business questions using data.
