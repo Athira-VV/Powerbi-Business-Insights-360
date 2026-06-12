@@ -224,31 +224,31 @@ The Home View acts as the landing page and provides navigation to all report sec
 
 ## Finance View
 
-*(Add Screenshot Here)*
+![Finance View](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Finance%20View.gif)
 
 ---
 
 ## Sales View
 
-*(Add Screenshot Here)*
+![Sales View](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Sales%20View.gif)
 
 ---
 
 ## Marketing View
 
-*(Add Screenshot Here)*
+![Marketing View](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Marketing%20View.gif)
 
 ---
 
 ## Supply Chain View
 
-*(Add Screenshot Here)*
+![Supply Chain View](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Supply%20Chain%20View.gif)
 
 ---
 
 ## Executive View
 
-*(Add Screenshot Here)*
+![Executive View](https://github.com/Athira-VV/powerbi-business-insights-360/blob/main/Executive%20View.gif)
 
 ---
 
