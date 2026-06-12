@@ -262,6 +262,4 @@ You can find the complete Power BI report file here:
 
 ## Project Outcome
 
-This dashboard helps stakeholders make data-driven decisions by providing a centralized view of business performance across different functions.
-
-The report enables users to monitor KPIs, identify trends, analyze performance, and answer important business questions using data.
+This dashboard helps to make data-driven decisions by providing a centralized view of business performance across different functions.The report enables users to monitor KPIs, identify trends, analyze performance, and answer important business questions using data.
